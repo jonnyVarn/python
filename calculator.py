@@ -49,7 +49,7 @@ def main_menu():
 #print(minus(1,1))
 #print(times(1,1))
 #print(division(1,1))
-
+#add a comment 
 running="run"
 main_menu()
 cal=calculator
@@ -80,6 +80,8 @@ while running !="q":
         tal1=input("first number")
         tal2=input("second number")
         print("-----------------------------------------------")
+        print(tal1 + "/" + tal2)
+        print("===============================================")
         print(cal.division(int(tal1), int(tal2)))
         print(cal.meaningless(int(tal1) / int(tal2)))
 
