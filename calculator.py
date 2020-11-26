@@ -49,7 +49,8 @@ def main_menu():
 #print(minus(1,1))
 #print(times(1,1))
 #print(division(1,1))
-#add a comment 
+#add a comment
+# added more comments 
 running="run"
 main_menu()
 cal=calculator
