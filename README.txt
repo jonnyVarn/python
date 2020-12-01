@@ -1,0 +1,1 @@
+A terminal calculator in python3 nothing fancy. It also provides the meaningless function
